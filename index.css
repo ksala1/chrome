@@ -1,3 +1,25 @@
-body{
-    background-color: blueviolet";
+body {
+    background-color: #8a2be2;
+}
+    .btn{
+        cursor: pointer;
+
+    }
+
+body {
+    color: #b2bec3;
+}
+
+.clicked {
+    color: hsl(179, 59%, 38%);
+}
+
+
+.form,
+.greetings {
+  display: none;
+}
+
+.showing {
+  display: block;
 }
